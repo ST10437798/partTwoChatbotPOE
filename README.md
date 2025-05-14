@@ -3,10 +3,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![.NET](https://img.shields.io/badge/.NET-7.0-blueviolet)
 ![Console App](https://img.shields.io/badge/Type-Console_App-brightgreen)
-[![GitHub stars](https://img.shields.io/github/stars/ST10437798/YOUR_REPOSITORY_NAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
-[![GitHub fork](https://img.shields.io/github/forks/ST10437798/YOUR_REPOSITORY_NAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
-[![GitHub contributors](https://img.shields.io/github/contributors/ST10437798/YOUR_REPOSITORY_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ST10437798/YOUR_REPOSITORY_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
+[![GitHub stars](https://img.shields.io/github/stars/ST10437798/https://github.com/ST10437798/partTwoChatbotPOE.git?style=social)](https://github.com/ST10437798/https://github.com/ST10437798/partTwoChatbotPOE.git)
+[![GitHub fork](https://img.shields.io/github/forks/ST10437798/ST10437798?style=social)](https://github.com/ST10437798/https://github.com/ST10437798/partTwoChatbotPOE.git)
+[![GitHub contributors](https://img.shields.io/github/contributors/ST10437798/ST10437798)](https://github.com/ST10437798/https://github.com/ST10437798/partTwoChatbotPOE.git)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ST10437798/https://github.com/ST10437798/partTwoChatbotPOE.git)](https://github.com/ST10437798/https://github.com/ST10437798/partTwoChatbotPOE.gitE)
 
 ## Overview
 
@@ -70,11 +70,11 @@ There are a couple of ways to get the chatbot code:
     If you're using Git, the easiest way is to clone the repository:
 
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone [https://github.com/ST10437798E/https://github.com/ST10437798/partTwoChatbotPOE.git.git](https://github.com/ST10437798/https://github.com/ST10437798/partTwoChatbotPOE.git.git)
+    cd https://github.com/ST10437798/partTwoChatbotPOE.git
     ```
 
-    This will download the code to your computer and navigate you to the project directory.  Replace  `YOUR_GITHUB_USERNAME`  and  `YOUR_REPOSITORY_NAME`  with the actual username and repository name.
+    This will download the code to your computer and navigate you to the project directory.  Replace  `ST10437798`  and  `https://github.com/ST10437798/partTwoChatbotPOE.git`  with the actual username and repository name.
 
 2.  **Manual Setup:**
 
