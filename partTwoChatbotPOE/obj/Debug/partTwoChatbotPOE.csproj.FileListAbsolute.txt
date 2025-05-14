@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\source\repos\partTwoChatbotPOE\bin\Debug\partTwoChatbotPOE.exe.config
+C:\Users\RC_Student_lab\source\repos\partTwoChatbotPOE\bin\Debug\partTwoChatbotPOE.exe
+C:\Users\RC_Student_lab\source\repos\partTwoChatbotPOE\bin\Debug\partTwoChatbotPOE.pdb
+C:\Users\RC_Student_lab\source\repos\partTwoChatbotPOE\obj\Debug\partTwoChatbotPOE.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\partTwoChatbotPOE\obj\Debug\partTwoChatbotPOE.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\partTwoChatbotPOE\obj\Debug\partTwoChatbotPOE.exe
+C:\Users\RC_Student_lab\source\repos\partTwoChatbotPOE\obj\Debug\partTwoChatbotPOE.pdb
